@@ -1,20 +1,18 @@
 # Agility: The scientific definition of how to be(come) Agile
 
-## Slides
-
 Here the PDF with the [slides of the presentation](https://github.com/lucaminudel/FromDoingLeanAgileToBeingLeanAgile/blob/master/Agility_Slides.pdf?raw=true).
 
-## Full Description
+### Session Description
 Many talks about doing Agile versus being Agile. The session presents a scientific definition of Agility, how to move from doing Agile to being Agile. 
 Characteristics of Agility that can be enhanced, inhibitors the can be reduced and removed and contexts where Agility is an advantage are all presented in this session. 
 All this enables you, a team and an organization to decide when and to know how to go from doing Agile to being Agile. 
 
-## References
+### References
 The content of this session is based on studies and experiments promoted by U.S. DoD and NATO research and presented in these books:
 -  The Agility Advantage: A Survival Guide For Complex Enterprises and Endeavors; David Alberts; 2011. [Free pdf here](http://www.dodccrp.org/files/agility_advantage/Agility_Advantage_Book.pdf).
 -  Power to the Edge: Command...Control...in the Information Age; David Alberts and Richard Hayes; 2003. [Free pdf here](http://www.dodccrp.org/files/Alberts_Power.pdf).
 
-## Suggested Reading
+### Suggested Reading
 The studies and experiments presented are based on Complexity Science, Social Complexity and Complex Adaptive Systems.
 
 An article and books about Complex Adaptive Systems and Agile Software Development:
