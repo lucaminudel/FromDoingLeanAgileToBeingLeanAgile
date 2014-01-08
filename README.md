@@ -17,7 +17,7 @@ The studies and experiments presented are based on Complexity Science, Social Co
 
 An article and books about Complex Adaptive Systems and Agile Software Development:
 -  [On Understanding Software Agility - A Social Complexity Point Of View; Joseph Pelrine; 2011](http://cognitive-edge.com/uploads/articles/110510_On_Understanding_Software_Agility.pdf).
--  [Adaptive Leadership: Accelerating Enterprise Agility, By ThoughtWorks' Jim Highsmith](http://www.thoughtworks.com/news/adaptive-leadership-accelerating-enterprise-agility).
+-  [Adaptive Leadership: Accelerating Enterprise Agility; Jim Highsmith; 2013](http://www.thoughtworks.com/news/adaptive-leadership-accelerating-enterprise-agility).
 -  Adaptive Software Development: A Collaborative Approach to Managing Complex Systems; James A. Highsmith III
 -  Agile Project Management: Creating Innovative Products (2nd Edition); Jim Highsmith
 
